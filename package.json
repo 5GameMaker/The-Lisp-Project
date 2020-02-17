@@ -1,0 +1,19 @@
+{
+  "name": "lisp",
+  "version": "1.0.0",
+  "description": "Opensource discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5GameMaker/The-Lisp-Project.git"
+  },
+  "author": "buj351",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5GameMaker/The-Lisp-Project/issues"
+  },
+  "homepage": "https://github.com/5GameMaker/The-Lisp-Project#readme"
+}
